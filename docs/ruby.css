@@ -19,6 +19,13 @@ p {
 }
 
 @font-face {
+    font-family: 'Badazzle-2lEw';
+    src: url("Badazzle-2lEw.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'AtomicMd-3zXDZ';
     src: url("AtomicMd-3zXDZ.ttf");
     font-weight: normal;
@@ -43,11 +50,12 @@ h2 {
 }
 
 h3 {
-  font-size: 60px;
-  font-family:'AtomicMd-3zXDZ';
+  font-size: 40px;
+  font-family:'Badazzle-2lEw';
+  font-weight: thin;
   text-align:center;
   color:#9b111e;
-      text-shadow: 0 0 2px #F73718, 0 0 1px Ivory;
+      text-shadow: 0 0 2px #FDCC52, 0 0 1px Ivory;
 }
 
 h4 {
