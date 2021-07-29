@@ -47,7 +47,7 @@ h3 {
   font-family:'AtomicMd-3zXDZ';
   text-align:center;
   color:#9b111e;
-      text-shadow: 0 0 7px #F73718, 0 0 5px Ivory;
+      text-shadow: 0 0 2px #F73718, 0 0 1px Ivory;
 }
 
 h4 {
@@ -55,6 +55,7 @@ h4 {
   font-family:'AtomicMd-3zXDZ';
   text-align:center;
   color:#9b111e;
+      text-shadow: 0 0 2px #F73718, 0 0 1px Ivory;
 }
 
 h5 {
