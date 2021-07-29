@@ -25,7 +25,6 @@ h1 {
   text-align:center;
   color:OrangeRed;
     text-shadow: 0 0 7px #FFEFD5, 0 0 5px #FFEFD5;
-
 }
 
 h2 {
@@ -34,16 +33,16 @@ h2 {
   text-align:center;
   color:DarkSlateGrey;
     text-shadow: 0 0 7px #FFEFD5, 0 0 5px #FFEFD5;
-
 }
+
 h3 {
   font-size: 120px;
   font-family:'AtomicMd-3zXDZ';
   text-align:center;
   color:#B32C0A;
       text-shadow: 0 0 7px Ivory, 0 0 5px Ivory;
-
 }
+
 a {
-  color:#B22222;;
+  color:#B22222;
 }
