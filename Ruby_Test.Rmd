@@ -1,0 +1,73 @@
+---
+
+
+title: "<p style = color:#f28500>Ruby Marzovilla</p>"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+library(embedr)
+library(tinytex)
+library(emo)
+library(rmdprotectr)
+```
+<html>
+<title>Noself</title>
+<head>
+<style>
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+@font-face {
+    font-family: 'Y2K_neophyte';
+    src: url("/Users/zoeervolino/Documents/noself/Y2K_neophyte.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'olympiccarriergradital';
+    src: url("/Users/zoeervolino/Documents/noself/olympiccarriergradital.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+a { text-decoration: none; }
+
+h1 {
+  font-size: 50px;
+  font-family: Y2K_neophyte;
+  text-align:center;
+  color:OrangeRed;
+    text-shadow: 0 0 7px #FFEFD5, 0 0 5px #FFEFD5;
+
+}
+p {
+  font-size: 120px;
+  font-family: olympiccarriergradital;
+  text-align:center;
+  color:MediumVioletRed;
+      text-shadow: 0 0 7px Ivory, 0 0 5px Ivory;
+
+}
+a {
+  color:Turquoise;
+}
+
+</style>
+</head>
+<body>
+<body style="background-color:#ffda21;">
+<p style="line-height:2px">
+<center><p>NOSELF</p></center>
+<center><iframe title="vimeo-player" src="https://player.vimeo.com/video/571845031" width="1080" height="520" frameborder="0" allowfullscreen></iframe></center>
+<br>
+<a href="https://www.linktr.ee/sophiehunter.mp3">
+<center><h1>sophie hunter</h1></center></a>
+</body>
+</html>
+<br>
+<br>
