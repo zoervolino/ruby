@@ -5,14 +5,14 @@
 }
 @font-face {
     font-family: 'Y2K_neophyte';
-    src: url("../Y2K_neophyte.ttf") format('truetype');
+    src: url("../Y2K_neophyte.ttf");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'AtomicMd-3zXDZ';
-    src: url("../AtomicMd-3zXDZ.ttf") format('truetype');
+    src: url("../AtomicMd-3zXDZ.ttf");
     font-weight: normal;
     font-style: normal;
 }
@@ -21,7 +21,7 @@ a { text-decoration: none; }
 
 h1 {
   font-size: 50px;
-  font-family: Y2K_neophyte;
+  font-family:'Y2K_neophyte';
   text-align:center;
   color:OrangeRed;
     text-shadow: 0 0 7px #FFEFD5, 0 0 5px #FFEFD5;
@@ -30,7 +30,7 @@ h1 {
 
 h2 {
   font-size: 50px;
-  font-family: Y2K_neophyte;
+  font-family:'Y2K_neophyte';
   text-align:center;
   color:DarkSlateGrey;
     text-shadow: 0 0 7px #FFEFD5, 0 0 5px #FFEFD5;
@@ -38,7 +38,7 @@ h2 {
 }
 h3 {
   font-size: 120px;
-  font-family: AtomicMd-3zXDZ;
+  font-family:'AtomicMd-3zXDZ';
   text-align:center;
   color:#B32C0A;
       text-shadow: 0 0 7px Ivory, 0 0 5px Ivory;
