@@ -50,7 +50,7 @@ h2 {
 }
 
 h3 {
-  font-size: 40px;
+  font-size: 35px;
   font-family:'Badazzle-2lEw';
   font-weight: thin;
   text-align:center;
@@ -90,8 +90,9 @@ a {
 }
 
 div {
+  font-stretch: ultra-condensed;
   line-height: 0.8;
-    opacity: 0.9;
+  opacity: 0.9;
 }
 
 div:hover {  
