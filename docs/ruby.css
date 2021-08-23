@@ -68,12 +68,17 @@ h4 {
 }
 
 h5 {
-  font-size: 30px;
+  font-size: 20px;
   font-family:'Y2K_neophyte';
-  font-weight: bold;
+  font-weight: thin;
   text-align:center;
   color:#008075;
       text-shadow: 0 0 7px #Ivory, 0 0 5px #Ivory;
+}
+
+h5:hover {
+    text-shadow: -.25px -.25px 0 crimson, 
+                .25px .25px crimson;
 }
 
 body{  
