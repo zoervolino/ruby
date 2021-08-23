@@ -76,22 +76,22 @@ h5 {
       text-shadow: 0 0 7px #Ivory, 0 0 5px #Ivory;
 }
 
-h6 {
-  font-size: 20px;
-  font-family:'Y2K_neophyte';
-  text-align:center;
-  color:Black;
-}
-
 h5:hover {
     text-shadow: -.25px -.25px 0 crimson, 
                 .25px .25px crimson;
 }
 
+h6 {
+  font-size: 20px;
+  font-family:'Y2K_neophyte';
+  text-align:center;
+  color:Black;
+    text-shadow: 0 0 7px Honeydew, 0 0 5px Ivory;
+}
 
 
 body{  
-  font-size: 40px;
+  font-size: 20px;
   font-family:'Y2K_neophyte';
   text-align:center;
   color:#008075;
