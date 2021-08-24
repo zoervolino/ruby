@@ -115,10 +115,6 @@ div {
   opacity: 0.9;
 }
 
-div:hover {  
-  opacity: 4.0;
-  font-weight: bold;
-}
 
 hr { 
 background-color: SlateGray; 
