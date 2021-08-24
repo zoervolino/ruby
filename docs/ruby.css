@@ -91,6 +91,13 @@ h6 {
     text-shadow: 0 0 7px Honeydew, 0 0 5px Ivory;
 }
 
+h7 {
+  font-size: 20px;
+  font-family:'Y2K_neophyte';
+  text-align:center;
+  color:Teal;
+    text-shadow: 0 0 7px Honeydew, 0 0 5px Ivory
+}
 
 body{  
   font-size: 20px;
