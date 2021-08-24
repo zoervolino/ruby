@@ -5,10 +5,12 @@
 }
 
 p {
-  margin-top: 10%;
-  margin-bottom: 10%;
-  margin-right: 15%;
-  margin-left: 15%;
+  font-size: 20px;
+  margin-right: 10%;
+  margin-left: 10%;
+  font-family:'Arial';
+  text-align:center;
+  color:DarkSlateGray;
 }
 
 @font-face {
@@ -85,6 +87,10 @@ h6 {
   font-size: 20px;
   font-family:'Y2K_neophyte';
   text-align:center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 180px;
+  margin-left: 180px;
   color:Black;
     text-shadow: 0 0 7px Honeydew, 0 0 5px Ivory;
 }
@@ -92,10 +98,10 @@ h6 {
 
 body{  
   font-size: 20px;
-  font-family:'Y2K_neophyte';
+  font-family:'Arial';
   text-align:center;
-  color:#008075;
-    text-shadow: 0 0 7px #Ivory, 0 0 5px #Ivory;
+  color:Black;
+;
 }
 
 a {
@@ -133,3 +139,8 @@ iframe {
   height:auto;
 }
 
+.boxed {
+  border: 1px solid red;
+  margin-right: 150px;
+  margin-left: 150px;
+}
