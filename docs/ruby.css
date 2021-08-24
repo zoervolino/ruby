@@ -4,13 +4,28 @@
   margin-right: auto;
 }
 
+
+@font-face {
+    font-family: 'AusionPersonalUse-Light';
+    src: url("AusionPersonalUse-Light.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+
 p {
-  font-size: 20px;
+  font-size: 30px;
   margin-right: 10%;
   margin-left: 10%;
-  font-family:'Arial';
+  font-family:'AusionPersonalUse-Light';
   text-align:center;
   color:DarkSlateGray;
+}
+
+@font-face {
+    font-family: 'PanAmTextCaps';
+    src: url("PanAmTextCaps.ttf");
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
@@ -19,7 +34,6 @@ p {
     font-weight: normal;
     font-style: normal;
 }
-
 @font-face {
     font-family: 'Badazzle-2lEw';
     src: url("Badazzle-2lEw.ttf");
@@ -92,19 +106,19 @@ h6 {
 }
 
 h7 {
-  font-size: 20px;
-  font-family:'Y2K_neophyte';
+  font-size: 30px;
+  font-family:'PanAmTextCaps';
   text-align:center;
   color:Teal;
     text-shadow: 0 0 7px Honeydew, 0 0 5px Ivory
 }
 
+
 body{  
   font-size: 20px;
-  font-family:'Arial';
+  font-family:'AusionPersonalUse-Light';
   text-align:center;
-  color:Black;
-;
+  color:Black
 }
 
 a {
