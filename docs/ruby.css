@@ -137,6 +137,6 @@ iframe {
 
 .boxed {
   border: 1px solid red;
-  margin-right: 150px;
-  margin-left: 150px;
+  margin-right: 15%;
+  margin-left: 15%;
 }
