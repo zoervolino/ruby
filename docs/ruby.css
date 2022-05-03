@@ -6,15 +6,15 @@
 
 
 @font-face {
-    font-family: 'GLAMOURGIRL';
-    src: url("GLAMOURGIRL.ttf");
+    font-family: 'Badazzle-2lEw';
+    src: url("Badazzle-2lEw.ttf");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Love Letters';
-    src: url("LoveLetters.ttf");
+    font-family: 'AusionPersonalUse-Light';
+    src: url("AusionPersonalUse-Light.otf");
     font-weight: normal;
     font-style: normal;
 }
@@ -27,8 +27,8 @@
 }
 
 @font-face {
-    font-family: 'Y2K_neophyte_italic';
-    src: url("Y2K_neophyte_italic.ttf");
+    font-family: 'Y2K_neophyte';
+    src: url("Y2K_neophyte.ttf");
     font-weight: normal;
     font-style: normal;
 }
@@ -39,21 +39,21 @@ p {
   font-size: 30px;
   margin-right: 10%;
   margin-left: 10%;
-  font-family:'Y2K_';
+  font-family:'AusionPersonalUse-Light';
   text-align:center;
   color:DarkSlateGray;
 }
 
 h1 {
   font-size: 30px;
-  font-family:'Y2K_neophyte_italic';
+  font-family:'Y2K_neophyte';
   text-align:center;
   color:HotPink;
 }
 
 h2 {
   font-size: 30px;
-  font-family:'GLAMOURGIRL';
+  font-family:'Y2K_neophyte';
   text-align:center;
   color:Black;
     text-shadow: 0 0 7px Honeydew, 0 0 5px Ivory;
@@ -61,12 +61,12 @@ h2 {
 
 h3 {
   font-size: 35px;
-  font-family:'Warioland4chmc-VApe';
+  font-family:'Badazzle-2lEw';
   font-weight: thin;
   text-align:center;
-  letter-spacing: -3.4px;
+  letter-spacing: -3.2px;
   color:#9b111e;
-      text-shadow: 0 0 2px #FDCC52, 0 0 1px Ivory;
+      text-shadow: 0 0 2px #FDCC52, 0 0 2px Ivory;
 }
 
 h4 {
@@ -79,7 +79,7 @@ h4 {
 
 h5 {
   font-size: 20px;
-  font-family:'Y2K_neophyte';
+  font-family:'AusionPersonalUse-Light';
   font-weight: thin;
   text-align:center;
   color:#008075;
@@ -100,7 +100,7 @@ h6 {
 }
 
 h7 {
-  font-size: 30px;
+  font-size: 12px;
   font-family:'PanAmTextCaps';
   text-align:center;
   color:Teal;
